@@ -33,22 +33,3 @@ corporate-website-internship/
 ├── tsconfig.json    # TypeScript configuration
 └── README.md        # Project documentation
 
-##⚙️ How to Run Locally
-1. Clone the repository
-git clone https://github.com/mishraruchi877-netizen/corporate-website-internship.git
-2. Go to the project directory
-cd corporate-website-internship
-3. Install dependencies
-npm install
-4. Start the development server
-npm run dev
-5. Open the website
-
-Open the following URL in your browser:
-
-http://localhost:3000
-👩‍💻 Author
-
-Ruchi Mishra
-
-GitHub: mishraruchi877-netizen
