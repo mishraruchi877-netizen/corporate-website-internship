@@ -32,6 +32,8 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/mishraruchi877-netizen/corporate-website-internship.git
+```text
+```text
 
 ## 🚀 Live Site
 
