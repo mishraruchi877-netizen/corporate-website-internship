@@ -9,7 +9,7 @@ export default function Header() {
         <header className="relative">
             <div className="flex flex-col md:flex-row justify-between items-center z-10">
                 <h1 className="font-black text-4xl md:text-5xl lg:text-6xl md:w-3/5 leading-16 text-center md:text-left">
-                    Building Tomorrow&apos;s Infrastructure with Innovation and Excellence
+                    Empowering Businesses with Smart Digital Solutions
                 </h1>
                 <div className="w-3/4 md:w-1/4 m-auto text-center mt-6 md:mt-0">
                     <Image className="w-40 md:w-80 mx-auto" src="/images/7459344.jpg" alt="Header Image" width={200} height={200} />
@@ -19,9 +19,9 @@ export default function Header() {
                 <Image className="w-full lg:w-3/5 rounded-xl" src="/images/header-image.jpg" alt="Main" width={500} height={300} />
                 <div className="w-full lg:w-2/5 lg:mt-0 mt-5 sm:ms-6 flex flex-col justify-between h-full">
                     <div className="lg:absolute xl:top-5 top-0">
-                        <h2 className="text-text-primary font-extrabold text-3xl xl:text-5xl mb-3 text-center md:text-left">Our Team</h2>
+                        <h2 className="text-text-primary font-extrabold text-3xl xl:text-5xl mb-3 text-center md:text-left">Technology That Moves Your Business Forward</h2>
                         <p className="text-text-secondary font-medium text-base xl:text-xl text-center md:text-left">
-                            Our dedicated team of professionals brings years of expertise in construction and engineering. We specialize in delivering high-quality projects that exceed expectations while maintaining the highest standards of safety and sustainability.
+                            We deliver innovative, scalable and reliable digital solutions that help businesses grow, transform and stay ahead in a rapidly changing world.
                         </p>
                         <div className="flex justify-center md:justify-start items-center mt-5 cursor-pointer">
                             {profileTeamImage.map((name, index) => (

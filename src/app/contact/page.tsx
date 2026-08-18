@@ -102,10 +102,10 @@ export default function ContactPage() {
                   <li className="flex items-center gap-2">
                     <FontAwesomeIcon icon={faEnvelope} className="text-accent w-5 h-5" />
                     <a
-                      href="mailto:arshiapourfar@gmail.com"
+                      href="mailto:mishraruchi877@gmail.com"
                       className="hover:underline"
                     >
-                      arshiapourfar@gmail.com
+                      mishraruchi877@gmail.com
                     </a>
                   </li>
                   <li className="flex items-center gap-2">

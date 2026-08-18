@@ -11,9 +11,9 @@ import Button from "@/components/ui/Button";
 const navbarList = [
     { title: "Home", link: "/" },
     { title: "About", link: "/about" },
-    { title: "Service", link: "/service" },
-    { title: "Project", link: "/project" },
-    { title: "Blog", link: "/blog" },
+    { title: "Services", link: "/service" },
+    { title: "Portfolio", link: "/project" },
+    { title: "Careers", link: "/blog" },
     { title: "Contact", link: "/contact" },
 ];
 
@@ -49,7 +49,7 @@ export default function Navbar() {
             </ul>
 
             <div className="hidden lg:block w-1/6 text-right">
-                <Button link="/contact" text="Get a Quote" />
+                <Button link="/contact" text="Get Started" />
             </div>
         </nav>
     );
